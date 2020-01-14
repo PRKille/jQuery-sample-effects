@@ -1,0 +1,36 @@
+/* p {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+p:hover {
+    text-decoration: underline;
+} */
+
+#walrus-showing, #thiscat {
+    display: none;
+    max-width: 300px;
+    overflow: hidden;
+}
+
+img {
+    width: 100%;
+}
+
+.clickable {
+    cursor: pointer;
+    color: #0088cc;
+}
+
+.clickable:hover {
+    text-decoration: underline;
+}
+
+#thispirate {
+    max-width: 300px;
+}
+
+#pro-ninja {
+    max-width: 300px;
+    display: none;
+}
