@@ -14,5 +14,4 @@ $(document).ready(function() {
         $('#pro-ninja').fadeToggle();
     });
 
-
   });
